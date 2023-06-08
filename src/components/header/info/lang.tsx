@@ -48,6 +48,7 @@ const WhiteButton = styled.button`
     background: #ffffff;
   }
 
+  
   div > img {
     border-radius: 25px;
   }
